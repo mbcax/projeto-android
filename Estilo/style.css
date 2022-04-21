@@ -81,7 +81,7 @@ nav{
 
 nav a {
     color: var(--cor3);
-    padding: 10px;
+    padding: 5px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 4px;
